@@ -21,7 +21,7 @@ Final-year **Mechatronics Engineering** student at UET Peshawar, building things
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🧠 **CryptoMind AI** | Blockchain intelligence platform — 10 LangGraph-orchestrated AI agents on a FastAPI backend | FastAPI · Next.js 14 · LangGraph |
+|🧠 **[CryptoMind AI](https://github.com/Rozzum-7134/cryptomind-ai)** | Blockchain intelligence platform — 10 LangGraph-orchestrated AI agents on a FastAPI backend | FastAPI · Next.js 14 · LangGraph |
 | ⛽ **FuelCheck** | FYP concept — clamp-on device that detects fuel fraud via a custom Hall-effect impeller sensor | STM32G0 · Hall Sensors · OLED |
 | 🔧 **PartMatch** | Matches electronics hobbyists to project ideas using a two-tier scoring engine + Claude API fallback | FastAPI · Next.js · Multi-agent AI |
 | 🎯 **PID Pointer-Arm** | ESP32 PID demonstrator with live WiFi-served Chart.js graphs over WebSocket | ESP32 · PlatformIO · WebSockets |
