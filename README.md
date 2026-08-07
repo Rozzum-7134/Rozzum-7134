@@ -23,7 +23,7 @@ Final-year **Mechatronics Engineering** student at UET Peshawar, building things
 |---|---|---|
 |🧠 **[CryptoMind AI](https://github.com/Rozzum-7134/cryptomind-ai)** | Blockchain intelligence platform — 10 LangGraph-orchestrated AI agents on a FastAPI backend | FastAPI · Next.js 14 · LangGraph |
 | ⛽ **FuelCheck** | FYP concept — clamp-on device that detects fuel fraud via a custom Hall-effect impeller sensor | STM32G0 · Hall Sensors · OLED |
-| 🔧 **Classroom-watcher(https://github.com/Rozzum-7134/Classroom-watcher)** | Receive WhatsApp notifications whenever new Google Classroom assignments are posted | Node.js · Google OAuth · SQLite |
+| 🔧 **[Classroom-watcher](https://github.com/Rozzum-7134/Classroom-watcher)** | Receive WhatsApp notifications whenever new Google Classroom assignments are posted | Node.js · Google OAuth · SQLite |
 | 🎯 **PID Pointer-Arm** | ESP32 PID demonstrator with live WiFi-served Chart.js graphs over WebSocket | ESP32 · PlatformIO · WebSockets |
 | 🚁 **Drone Build** | Incremental hardware build combining robotics + aeronautics, one component at a time | Embedded · Robotics |
 
